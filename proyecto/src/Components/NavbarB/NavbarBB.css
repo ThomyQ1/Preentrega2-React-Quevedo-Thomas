@@ -1,0 +1,21 @@
+html{
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3CA6A6;
+    padding: 10px;
+    width: 100%;
+    height: auto;
+}
+
+img{
+    margin: 20px;
+    padding: 20px;
+}
